@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project simulates a real-world Data Engineering initiative to automate the ingestion of external electricity generation data from the U.S. Energy Information Administration (EIA).
-
-The solution is built on Google Cloud Platform and follows a modern analytics architecture using BigQuery, dbt, Streamlit and Power BI.
+This project builds a cloud-native data platform that automatically ingests daily electricity generation data from the U.S. Energy Information Administration (EIA) API, transforms it into analytics-ready datasets, and serves business insights through Streamlit and Power BI.
 
 ## Business Problem
 
