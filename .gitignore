@@ -220,3 +220,10 @@ __marimo__/
 # Json Response
 eia_response.json
 .DS_Store
+
+# Docker
+.docker/
+
+# Local environment files
+.env.*
+!.env.example
